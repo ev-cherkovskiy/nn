@@ -1,0 +1,11 @@
+.google-landing__search-pic {
+    width: 32px;
+    height: 32px;
+    opacity: 0.4;
+    background-image: url(../../images/search-pic-2.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 12px;
+    top: -39px;
+}

@@ -1,0 +1,5 @@
+.google-landing {
+    font-family: Roboto;
+    display: flex;
+    flex-flow: column nowrap;
+}

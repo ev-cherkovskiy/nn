@@ -1,0 +1,10 @@
+.letter-pic {
+    display: flex;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 17px;
+}

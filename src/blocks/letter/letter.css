@@ -1,0 +1,9 @@
+.letter {
+    display: flex;
+    flex-flow: column nowrap;
+    height: 70px;
+    justify-content: space-around;
+    align-items: center;
+    width: min-content;
+    font-family: Arial, Helvetica, sans-serif;
+}

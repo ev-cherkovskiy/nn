@@ -1,0 +1,33 @@
+.lucky-popup {
+    outline: 1px #dfe1e5 solid;
+    width: min-content;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    position: relative;
+    top: 100px;
+    right: 20px;
+    position: center;
+    margin: 0 auto;
+    border-radius: 7px;
+    box-shadow: 0 2px 7px gray;
+    visibility: hidden;
+    z-index: 3;
+    font-weight: bold;
+    font-size: 30px;
+    background: linear-gradient(90deg, red 14.29%, orange 28.57%, yellow 42.86%, green 57.14%, lightblue 71.43%, darkblue 85.71%, purple 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: yellow;
+    animation: rotation 3s infinite linear;
+}
+
+@keyframes rotation {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}

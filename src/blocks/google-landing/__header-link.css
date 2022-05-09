@@ -1,0 +1,17 @@
+.google-landing__header-link {
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+    padding-right: 15px;
+    cursor: pointer;
+    color: inherit;
+    text-decoration: none;
+}
+
+.google-landing__header-link:hover {
+    text-decoration: underline;
+}
+
+.google-landing__header-link:last-of-type {
+    padding-right: 17px;
+}

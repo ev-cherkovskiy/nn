@@ -1,0 +1,20 @@
+.google-landing__header-burger {
+    padding-right: 15px;
+    background-image: url(../../images/dots-png-12.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 16px;
+    height: 16px;
+    cursor: pointer;
+    opacity: 0.75;
+}
+
+.google-landing__header-burger:hover + div {
+    width: 40px;
+    height: 40px;
+    background-color: #EEEEEE;
+    position: absolute;
+    border-radius: 50%;
+    right: 50px;
+    z-index: -1;
+}

@@ -1,0 +1,9 @@
+.google-landing__button-bar {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    justify-self: center;
+    align-self: center;
+    width: calc(100% - 40px);
+    max-width: 582px;
+}

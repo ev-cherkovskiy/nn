@@ -1,0 +1,6 @@
+.google-landing__search {
+    max-width: 582px;
+    width: calc(100% - 40px);
+    align-self: center;
+    padding-top: 20px;
+}

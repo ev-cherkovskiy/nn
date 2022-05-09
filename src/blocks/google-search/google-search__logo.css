@@ -1,0 +1,8 @@
+.google-search__logo {
+    height: 40px;
+    position: absolute;
+    left: -160px;
+    top: 25px;
+    object-fit: contain;
+    cursor: pointer;
+}

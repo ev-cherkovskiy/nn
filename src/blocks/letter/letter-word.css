@@ -1,0 +1,7 @@
+.letter-word {
+    color: #333333;
+    width: min-content;
+    margin: 0;
+    white-space: nowrap;
+    font-size: 14px;
+}

@@ -1,0 +1,10 @@
+.google-landing__header {
+    font-family: Roboto;
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    justify-content: flex-end;
+    margin-right: 15px;
+    margin-top: 15px;
+    color: #333333;
+}

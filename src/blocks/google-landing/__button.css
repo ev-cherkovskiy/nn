@@ -1,0 +1,21 @@
+.google-landing__button {
+    border: none;
+    background-color: #f8f9fa;
+    color: #3c4043;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 99px;
+    height: 34px;
+    padding: 0 16px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.google-landing__button:first-of-type {
+    margin-right: 12px;
+}
+
+.google-landing__button:hover {
+    outline: 1px solid #dfe1e5;
+    box-shadow: 0 1px 5px lightgrey;
+}

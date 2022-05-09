@@ -1,0 +1,6 @@
+.google-landing__logo {
+    max-width: 410px;
+    width: calc(100% - 40px);
+    align-self: center;
+    padding-top: 20vh;
+}

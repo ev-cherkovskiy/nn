@@ -1,0 +1,9 @@
+.result {
+    margin-bottom: 40px;
+    max-width: 600px;
+    margin-right: 40px;
+}
+
+.result:last-of-type {
+    margin-bottom: 0px;
+}

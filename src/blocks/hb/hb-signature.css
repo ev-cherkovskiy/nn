@@ -1,0 +1,8 @@
+.hb-signature {
+    max-width: 600px;
+    width: 70%;
+    /* padding-right: 30vw; */
+    text-align: end;
+    font-style: italic;
+    opacity: 0.9;
+}

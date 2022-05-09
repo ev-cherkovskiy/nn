@@ -1,13 +1,45 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+@import url(./vendor/normalize.css);
+@import url(./blocks/google-landing/google-landing.css);
+@import url(./blocks/google-landing/__header.css);
+@import url(./blocks/google-landing/__header-link.css);
+@import url(./blocks/google-landing/__header-burger.css);
+@import url(./blocks/google-landing/__header-ava.css);
+@import url(./blocks/google-landing/__logo.css);
+@import url(./blocks/google-landing/__search.css);
+@import url(./blocks/google-landing/__search-input.css);
+@import url(./blocks/google-landing/__search-pic.css);
+@import url(./blocks/google-landing/__button-bar.css);
+@import url(./blocks/google-landing/__button.css);
+@import url(./blocks/ava-popup/ava-popup.css);
+@import url(./blocks/ava-popup/ava-popup_open.css);
+@import url(./blocks/letter/letter.css);
+@import url(./blocks/letter/letter-pic.css);
+@import url(./blocks/letter/letter-word.css);
+@import url(./blocks/overlay/overlay.css);
+@import url(./blocks/overlay/overlay_open.css);
+@import url(./blocks/google-landing/google-landing__search_header.css);
+@import url(./blocks/google-landing/google-landing__search-pic_header.css);
+@import url(./blocks/google-search/google-search__logo.css);
+@import url(./blocks/google-search/google-search__number-of-results.css);
+@import url(./blocks/results/results.css);
+@import url(./blocks/results/result.css);
+@import url(./blocks/results/result-link.css);
+@import url(./blocks/results/result-heading.css);
+@import url(./blocks/results/result-caption.css);
+@import url(./blocks/lucky-popup/lucky-popup.css);
+@import url(./blocks/lucky-popup/lucky-popup_open.css);
+@import url(./blocks/lucky-popup/lucky-popup-size.css);
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+@import url(./blocks/hb/hb-heading.css);
+@import url(./blocks/hb/hb-heh.css);
+@import url(./blocks/hb/hb-img.css);
+@import url(./blocks/hb/hb-message.css);
+@import url(./blocks/hb/hb-PS.css);
+@import url(./blocks/hb/hb-PS_invisible.css);
+@import url(./blocks/hb/hb-subheading.css);
+@import url(./blocks/hb/hb-wish.css);
+@import url(./blocks/hb/hb.css);
+@import url(./blocks/hb/img-1.css);
+@import url(./blocks/hb/img-2.css);
+@import url(./blocks/hb/img-3.css);
+@import url(./blocks/hb/hb-signature.css);

@@ -1,0 +1,15 @@
+.hb {
+    /* max-width: 600px; */
+    /* width: 80vw; */
+    padding: 0 60px;
+    font-size: 20px;
+    display: flex;
+    flex-flow: column nowrap;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+    background: linear-gradient(90deg, #eff 0%, #fff 50%, #ffe 100%);
+    color: #555;
+    min-height: 100vh;
+}
